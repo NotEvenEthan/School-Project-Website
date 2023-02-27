@@ -31,7 +31,7 @@ h2{
 }
 
 h3{
-  margin-top:20px
+  margin-top:20px;
   margin-left:20px;
 }
 
@@ -165,18 +165,6 @@ iframe {
 
 #main{
   background-color:#FFD133  ;
-}
-
-/*#main{
-  background-image:url("https://wallpapercave.com/wp/wp5717833.jpg");
-  background-size:100% 100%;
-  background-repeat:no-repeat;
-}*/
-
-#about{
-  background-image:url(https://api.time.com/wp-content/uploads/2016/02/better-call-saul.jpg);
-  background-size:100% 100%;
-  background-repeat:no-repeat;
 }
 
 .secret{
